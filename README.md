@@ -1,4 +1,4 @@
-Project Summary: This project forcuses on applying Topic Modeling to a BBC News Dataset. Topic Modeling is a statistical modeling technique used to uncover the main themes and topics present in a structure of documents or text data. The project was done in several parts as follows:
+Project Summary: This project forcuses on applying Topic Modeling to a BBC News Dataset. Topic Modeling is a statistical modeling technique used to uncover the main themes and topics present in a structure of documents or textual data. The project was done in several parts as follows:
 
 1. **Analysis and Preprocessing**
   - Performed an in-depth analysis of the dataset and the textual content it contained by using various descriptive statistics.
@@ -7,7 +7,7 @@ Project Summary: This project forcuses on applying Topic Modeling to a BBC News 
 
 2. **Text Preprocessing:**
   - Performed text preprocessing to clean the text and prepare it for analysis.
-  - Removed stopwords, punctuation, extra spaces, and unnecessary characters that could interfere with the accuracy of the analysis.
+  - Removed stopwords, punctuation, extra spaces, and unnecessary characters which do not add any semantic meaning to the text and could interfere with the accuracy of the analysis.
 
 3. **Text Vectorization using FastText and Embedding Visualizations using UMAP:**
   - Converted the preprocessed text into vector representations using FastText embeddings.
