@@ -6,7 +6,7 @@ Project Summary: This project forcuses on applying Topic Modeling to a BBC News 
     - Combined the titles and descriptions of the news articles to extract more information from the text.
 
 2. **Text Preprocessing:**
-    - Performed text preprocessing to clean the text and prepare it for analysis.
+    - Performed text preprocessing to clean the text and prepare it for analysis, andremove words and instanceswhich do not add any semantic meaning to the text.
     - Removed stopwords, punctuation, extra spaces, and unnecessary characters which do not add any semantic meaning to the text and could interfere with the accuracy of the analysis.
 
 3. **Text Vectorization using FastText and Embedding Visualizations using UMAP:**
